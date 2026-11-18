@@ -37,3 +37,11 @@ Working checklist for Calvary Baptist Church website concept. Church leadership 
 - [ ] Who will own and manage the church domain, hosting, and admin accounts?
 - [ ] Who maintains the site after launch?
 - [ ] Final church leadership approval before public launch.
+
+## Website maintenance responsibilities — explain to preacher
+- [ ] Explain **content maintenance**: updating calendar events, optional RSVP attendance, sermons, announcements, service times, church details, and approved photos. This should be manageable by a nontechnical church administrator once the editing interface is built.
+- [ ] Explain **technical maintenance**: security and software updates, fixing bugs, hosting/domain renewals, backups, access management, and troubleshooting.
+- [ ] Decide who is responsible for routine content updates and who serves as backup.
+- [ ] Decide who handles technical maintenance, how issues will be reported, and what support expectations are reasonable for donated development.
+- [ ] Clarify recurring costs (domain, hosting, storage, possible third-party services) and who pays them.
+- [ ] Confirm church ownership of domain, hosting, data, and administrative accounts; agree on handoff if the volunteer developer becomes unavailable.
